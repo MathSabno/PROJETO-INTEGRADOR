@@ -1,2 +1,2 @@
 # PROJETO-INTEGRADOR
-Projeto para cálculo dos impostos Estaduais na compra de um imóvel - 1 ° semestre
+Aplicação em Java para cálculo de impostos e despesas acessórias à compra e venda de imóveis no município de São Paulo.
